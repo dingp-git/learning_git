@@ -1,6 +1,2 @@
 This is a test file.
 
-点对点
-
-This is a test file.
-
